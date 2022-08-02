@@ -1,1 +1,1 @@
-# EPITA_2022summer
+# EPITA_summer
